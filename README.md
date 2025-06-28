@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Manvi Dhamija</h1>
 <h3 align="center">An AI-ML Enthusiast from India who loves to code Solutions</h3>
 
